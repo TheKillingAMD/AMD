@@ -1,0 +1,12 @@
+C:\Users\ayush\source\repos\Tenant\bin\Debug\Tenant.exe.config
+C:\Users\ayush\source\repos\Tenant\bin\Debug\Tenant.exe
+C:\Users\ayush\source\repos\Tenant\bin\Debug\Tenant.pdb
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.csprojAssemblyReference.cache
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.Properties.Resources.resources
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.csproj.GenerateResource.cache
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.csproj.CoreCompileInputs.cache
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.exe
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.pdb
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.Display_Tenants.resources
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.Add_Tenant.resources
+C:\Users\ayush\source\repos\Tenant\obj\Debug\Tenant.Delete_Tenant.resources

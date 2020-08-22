@@ -1,0 +1,10 @@
+C:\Users\ayush\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\ayush\source\repos\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\ayush\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\ayush\source\repos\Converter\Converter\obj\Debug\Converter.pdb
